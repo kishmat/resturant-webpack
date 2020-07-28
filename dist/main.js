@@ -165,7 +165,7 @@ eval("__webpack_require__.r(__webpack_exports__);\nvar head = `<p>This is our ho
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
-eval("__webpack_require__.r(__webpack_exports__);\nvar head = ` <p>Contact us : 9846728425</p>`\r\n\r\nfunction tabtwo(){\r\n    var heading  =document.getElementById('heading')\r\n    heading\r\n    heading.insertAdjacentHTML('beforeend',head)\r\n    console.log(\"5\")\r\n}\r\n\r\n/* harmony default export */ __webpack_exports__[\"default\"] = (tabtwo);\n\n//# sourceURL=webpack:///./src/tabTwo.js?");
+eval("__webpack_require__.r(__webpack_exports__);\nvar head = ` <p>Contact us : 9846728425</p>`\r\n\r\nfunction tabtwo(){\r\n    var heading  =document.getElementById('heading')\r\n    heading\r\n    heading.insertAdjacentHTML('beforeend',head)\r\n    // console.log(\"5\")\r\n}\r\n\r\n/* harmony default export */ __webpack_exports__[\"default\"] = (tabtwo);\n\n//# sourceURL=webpack:///./src/tabTwo.js?");
 
 /***/ })
 
